@@ -1,0 +1,6 @@
+project_id: oomlout_software_tool_ocr_seven_segment_display
+project_name: Oomlout Software Tool Ocr Seven Segment Display
+project_repo: https://github.com/oomlout/oomlout_software_tool_ocr_seven_segment_display
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
